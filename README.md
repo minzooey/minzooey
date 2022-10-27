@@ -44,7 +44,7 @@ Lim, M. H., Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2020**). Effect
 
 **2021**    **민주희**, 김광용. Predicting phenology of _Alexandrium_ species by ecological niches in the Korea Strait. (구두) 35회 한국조류학회 학술발표대회 초록집. p52. 2021년 10원 21 ~ 22일. 소노벨, 경주.
 
-**2021**    이찬영, **김광용**, 민주희. Understanding the phenology of _Alexandrium_ species via OMI (outlying mean index analysis) in the Korea Strait. (구두) 2021년도 한국해양학회 추계학술대회 초록집. 2021년 11월 4 ~ 5일. 휘닉스 섭지코지, 제주도.
+**2021**    **김광용**, 민주희, 이찬영. Understanding the phenology of _Alexandrium_ species via OMI (outlying mean index analysis) in the Korea Strait. (구두) 2021년도 한국해양학회 추계학술대회 초록집. 2021년 11월 4 ~ 5일. 휘닉스 섭지코지, 제주도.
 
 **2022**    **민주희**, 김광용. Epibiotic community and macroalgal functional-form structure in a rocky tide pool. (구두) 2022년도 한국조류학회 학술발표대회 초록집. p. 2022년 10월 19 ~ 20일. 소노벨, 제주 함덕.
 
