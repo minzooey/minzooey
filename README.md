@@ -23,6 +23,12 @@ Kim, J. H., **Min, J.**, Kang, E. J., & Kim, K. Y. (**2018**). Elevated temperat
 Lee, H. G., Kim, H. M., **Min, J.**, Park, C., Jeong, H. J., Lee, K., & Kim, K. Y. (**2020**). Quantification of the paralytic shellfish poisoning dinoflagellate Alexandrium species using a digital PCR. Harmful algae, 92, 101726.
 
 Lim, M. H., Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2020**). Effect of elevated pCO 2 on thermal performance of Chattonella marina and Chattonella ovata (Raphidophyceae). Algae, 35(4), 375-388.
+
+Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity of growth and chain formation of the dinoflagellates Alexandrium affine and Alexandrium pacificum with respect to ocean acidification. Algae, 36(4), 285-298.
+
+**Min, J.** & Kim, K. Y. (**2022**). Quantification of the ichthyotoxic raphidophyte Chattonella marina complex by applying a droplet digital PCR. Algae. in press.
+
+**Min, J.** & Kim, K. Y. (2023). 
     
 #### _International conference_
 
