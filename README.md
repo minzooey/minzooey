@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue)    
 
-#### _Education_
+#### _Education_🎓
 
 **M.Sc**, Febrary 2018, Department of Oceanography, Chonnam National University
     - Thesis : Change of carbon acquisition characters of _corallina officinalis_ along the various CO2 and O2 environments induced future climate conditions
@@ -26,9 +26,11 @@ Lim, M. H., Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2020**). Effect
 
 Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity of growth and chain formation of the dinoflagellates Alexandrium affine and Alexandrium pacificum with respect to ocean acidification. Algae, 36(4), 285-298.
 
-**Min, J.** & Kim, K. Y. (**2022**). Quantification of the ichthyotoxic raphidophyte Chattonella marina complex by applying a droplet digital PCR. Algae. in press.
+**Min, J.** & Kim, K. Y. (**2022**). Quantification of the ichthyotoxic raphidophyte Chattonella marina complex by applying a droplet digital PCR. Algae, 37(4), 281-291.👏🏻👏🏻
 
-**Min, J.** & Kim, K. Y. (2023). 
+**Min, J.** & Kim, K. Y. (**2023**). Seasonal change and subniche dynamics of three Alexandrium species in the Korea Strait. Harmful algae, 102420. 👏🏻👏🏻
+
+**Min, J.** & Kim, K. Y. (**2023**). 
     
 #### _International conference_
 
