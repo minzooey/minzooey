@@ -13,7 +13,7 @@
 **M.Sc**, Febrary 2018, Department of Oceanography, Chonnam National University
     - Thesis : Change of carbon acquisition characters of _corallina officinalis_ along the various CO2 and O2 environments induced future climate conditions
     
-#### _Publication_
+#### _Publication_📄
 \* = Co-first author;
 
 Lee, H. G., Kim, H. M., **Min, J.**, Kim, K., Park, M. G., Jeong, H. J., & Kim, K. Y. (**2017**). An advanced tool, droplet digital PCR (ddPCR), for absolute quantification of the red-tide dinoflagellate, Cochlodinium polykrikoides Margalef (Dinophyceae). Algae, 32(3), 189-197.
@@ -32,13 +32,13 @@ Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity
 
 **Min, J.** & Kim, K. Y. (**2023**). Diversity and assembly of planktonic protist communities in the Jeju Strait, Korea. Frontiers in marine science, . in review... 
     
-#### _International conference_
+#### _International conference_📣
 
 **2019**    Min, J., Lee, H. G. & Kim, K. Y. Developing novel biomarkers targeting stage-specific transcripts for monitoring harmful organisms. Oral presentation, 23th International Seaweed Symposium, Jeju, Korea.
 
 **2021**    Min, J. & Kim, K. Y. Seasonal succession of Alexandrium species in the Korea Strait: insight from the realized niche analysis. 12th International Phycological congress. Oral presentation, Chile.
     
-#### _Domestic conference_
+#### _Domestic conference_📢
 **2016**    <U>Jihoon Jo</U>, Hyun-Gwan Lee, Keunyong Kim, **Juhee Min**, Jingyo Lee, Kwang Young Kim and Chungoo Park. Developing a PCR-free biodiversity assessment method: a case study of the biodiversity effect of Saemangeum tidal barriers. (포스터) 30회 한국조류학회 학술발표대회 초록집. 2016년 9월 28 ~ 29일. 라마다, 제주.
 
 **2016**    <U>Joo-Seong Oh</U>, Hyun-Gwan Lee, **Juhee Min**, Hyemi Kim, Keunyeong Kim, Kwang Young Kim, Chungoo Park. Stage-specific biomarkers for early detection of harmful marine organisms using comparative transcriptome analysis of _Ciona intestinalis_. (포스터) 30회 한국조류학회 학술발표대회 초록집. 2016년 9월 28 ~ 29일. 라마다, 제주. 
@@ -77,7 +77,7 @@ Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity
 
 **2022**    **민주희**, 김광용. Quantification of ichthyotoxic raphidophytes Chattonella marina complex applying a droplet digital PCR. (포스터) 2022년도 한국해양학회 추계학술대회 초록집. 2022년 11월 2 ~ 4일. 라카이샌드파크, 강릉.
     
-#### _Award and Grants_
+#### _Award and Grants_🏆
 **2017**    [2017년 한국해양학회 춘계 학술발표대회] **Best student poster award in biological oceanography** (제 2017-028호): Effects of future climate conditions on photosynthetic use of inorganic carbon by geniculate coralline alga _Corallina_ sp.  
 
 **2020**    [2020년 한국해양학회 추계 학술발표대회] **Best student poster award in biological oceanography** (제 2020-21호): The novel stage-specific biomarkers by transcriptome profiling of the ascidian Ciona intestinalis (L.), a species disturbing the biodiversity and ecological dynamics in shallow benthic ecosystem.
