@@ -30,7 +30,7 @@ Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity
 
 **Min, J.** & Kim, K. Y. (**2023**). Seasonal change and subniche dynamics of three Alexandrium species in the Korea Strait. Harmful algae, 102420. 👏🏻👏🏻
 
-**Min, J.** & Kim, K. Y. (**2023**). Diversity and assembly of planktonic protist communities in the Jeju Strait, Korea. Frontiers in marine science, . in review... 
+**Min, J.** & Kim, K. Y. (**2023**). Diversity and assembly of planktonic protist communities in the Jeju Strait, Korea. Frontiers in marine science, 10. doi: 10.3389/fmars.2023.1225640.
     
 #### _International conference_📣
 
