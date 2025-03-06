@@ -10,6 +10,9 @@
 
 #### _Education_🎓
 
+**D.Sc**, Febrary 2024, Department of Oceanography, Chonnam National University
+    - Thesis : Realized niche dynamics of Alexandrium species and community assembly of planktonic protists in the Korea Strait
+
 **M.Sc**, Febrary 2018, Department of Oceanography, Chonnam National University
     - Thesis : Change of carbon acquisition characters of _corallina officinalis_ along the various CO2 and O2 environments induced future climate conditions
     
@@ -30,7 +33,9 @@ Lee, C. H., **Min, J.**, Lee, H. G., & Kim, K. Y. (**2021**). Thermal plasticity
 
 **Min, J.** & Kim, K. Y. (**2023**). Seasonal change and subniche dynamics of three Alexandrium species in the Korea Strait. Harmful algae, 102420. 👏🏻👏🏻
 
-**Min, J.** & Kim, K. Y. (**2023**). Diversity and assembly of planktonic protist communities in the Jeju Strait, Korea. Frontiers in marine science, 10. doi: 10.3389/fmars.2023.1225640.
+**Min, J.** & Kim, K. Y. (**2023**). Diversity and assembly of planktonic protist communities in the Jeju Strait, Korea. Frontiers in marine science, 10. doi: 10.3389/fmars.2023.1225640. 👏🏻👏🏻
+
+**Min, J** & Kim, K. Y. (**2024**). Optimal filter materials for protist quantification via droplet digital PCR. Algae, 39(1), 1-6. 
     
 #### _International conference_📣
 
